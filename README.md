@@ -3,6 +3,11 @@
 A modern and eye-catching **To-Do App** built with **React**, **Redux**, and **Bootstrap**. This app allows users to manage their tasks, view weather information for any city, and enjoy a smooth, animated user experience.
 
 <!-- Add a screenshot of your app here -->
+
+![Screenshot 2025-03-07 203528](https://github.com/user-attachments/assets/f3f04940-960f-4f53-8e6e-8d8d41c9cf63)
+![Screenshot 2025-03-07 203603](https://github.com/user-attachments/assets/fdd2d142-dc4b-4929-95f0-1d6904b68f2b)
+
+# User credentials
 Username: user
 Password: password
 
